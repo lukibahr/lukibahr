@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, and a "herzliches willkommen!" 👋
 
-<!--
-**lukibahr/lukibahr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Lukas, cloud-platform engineer from Germany and a cloud-native enthusiast. 
 
-Here are some ideas to get you started:
+🔭 **I’m currently improving:** my home-automation environment, based on K3s to let kubernetes take place in my home, too. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to reach me:** hello@lukasbahr.de
+
+⚡ **Fun facts:**
+  * Loves Spotify 🎵
+  * Drives a 60k € Volkswagon Passat diesel which has a leak roof :droplet:
+  * Owns a cat :cat:
+  
