@@ -8,6 +8,6 @@ Hi, I'm Lukas, cloud-platform engineer from Germany and a cloud-native enthusias
 
 ⚡ **Fun facts:**
   * Loves Spotify 🎵
-  * Drives a 60k € Volkswagon Passat diesel which has a leak roof :droplet:
+  * Drives a 60k € Volkswagen Passat diesel which has a leak roof :droplet:
   * Owns a cat :cat:
   
