@@ -1,4 +1,4 @@
-### Hi there, and a "herzliches willkommen!" 👋
+### Hi there" 👋
 
 Hi, I'm Lukas, cloud-platform engineer from Germany and a cloud-native enthusiast. 
 
