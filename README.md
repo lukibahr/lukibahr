@@ -13,5 +13,5 @@ Combine both.
 ⚡ **Fun facts:**
 
   * Loves Spotify 🎵
-  * Owns two cats :cat: :cat:.
+  * Owns a cat :cat:.
   
